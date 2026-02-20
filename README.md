@@ -19,3 +19,7 @@ To run this script, you need Python 3.9+ and the following libraries:
 1. Get your **Gemini API Key** from Google AI Studio.
 2. Run the script: `python translator_recorder.pyw`.
 3. [cite_start]Enter your API key when prompted[cite: 12].
+
+### Screenshots
+![Main Window](screen1.png)
+![Translation Example](screen2.png)
