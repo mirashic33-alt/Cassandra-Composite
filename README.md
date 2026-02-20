@@ -22,4 +22,4 @@ To run this script, you need Python 3.9+ and the following libraries:
 
 ### Screenshots
 ![Main Window](screen1.png)
-![Translation Example](screen2.png)
+![Translation Example](screen2.jpg)
